@@ -591,9 +591,9 @@ p { margin: 0; }
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-end;
+    justify-content: center;
     gap: 8px;
-    padding-left: 32px;
+    padding-left: 0;
   }
 
   .nav-link {
