@@ -534,6 +534,7 @@ p { margin: 0; }
 
 @media (max-width: 760px) {
   .site-header {
+    position: static;
     height: auto;
     padding: 12px 14px;
     flex-direction: column;
@@ -552,7 +553,7 @@ p { margin: 0; }
     max-width: 100%;
   }
   .page-container {
-    margin-top: 132px;
+    margin-top: 16px;
   }
   .grid.two,
   .timeline { grid-template-columns: 1fr; }

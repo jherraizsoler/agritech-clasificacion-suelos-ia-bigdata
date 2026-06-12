@@ -43,8 +43,8 @@ document.addEventListener('DOMContentLoaded', () => {
           </div>
         </div>
         <div class="footer-bottom">
-          <span>Proyecto web de apoyo a la presentación y lectura técnica de resultados.</span>
-          <span>Actualizado visualmente para una lectura más clara y profesional.</span>
+          <span>Curso de Especialización de Grado Superior en Inteligencia Artificial y Big Data en el Campus Digital FP, julio de 2026.</span>
+          <span>Copyright para siempre para el equipo de investigadores: Jorge Herraiz Soler, Ralph Berrio Quispe e Ignacio Buey Ruiz.</span>
         </div>
       </div>
     `;
